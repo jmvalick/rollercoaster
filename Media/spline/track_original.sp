@@ -1,0 +1,15 @@
+14
+spline_parts/x.sp
+spline_parts/x.sp
+spline_parts/turn-x-y.sp
+spline_parts/y.sp
+spline_parts/y.sp
+spline_parts/y.sp
+spline_parts/turn-y-negx.sp
+spline_parts/negx.sp
+spline_parts/negx.sp
+spline_parts/turn-negx-negy.sp
+spline_parts/negy.sp
+spline_parts/negy.sp
+spline_parts/negy.sp
+spline_parts/turn-negy-x.sp

@@ -1,0 +1,18 @@
+# Made in Blockbench 3.0.6
+newmtl 0
+map_Kd wool_colored_silver.png 
+newmtl 1
+map_Kd wool_colored_blue.png 
+newmtl 2
+map_Kd wool_colored_light_blue.png 
+newmtl 3
+map_Kd wool_colored_black.png 
+newmtl 4
+map_Kd wool_colored_white.png 
+newmtl 5
+map_Kd rideplac.png 
+newmtl 6
+map_Kd wool_colored_gray.png 
+newmtl 7
+map_Kd wool_colored_red.png 
+newmtl none
